@@ -12,8 +12,7 @@ public class InterfaceDemo {
 			@Override
 			public void addition() {
 				System.out.println(4+5);
-				
-			}
+				System.out.println("github upload");			}
 		};
 		
 calc.addition();
